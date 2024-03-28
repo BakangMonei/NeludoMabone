@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724706731342",
+    "project_id": "tango225-dd214",
+    "storage_bucket": "tango225-dd214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724706731342:android:9c01ac538a672056762a1f",
+        "android_client_info": {
+          "package_name": "com.example.suitcase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqUnotUGVI8RLBXl_SiTEOpPCMhp9PkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

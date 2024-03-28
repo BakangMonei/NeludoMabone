@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3498db</color>
+    <color name="Pink">#FF4081</color>
+    <color name="Brown">#795548</color> <!-- Brown -->
+    <color name="DarkBrown">#5D4037</color> <!-- Darker Brown -->
+    <color name="navyblue">#1976D2</color> <!-- Navy Blue -->
+    <color name="colorBlack">#000000</color> <!-- Black -->
+    <color name="red">#FF0000</color> <!-- Black -->
+    <color name="Green">#11FF00</color> <!-- Black -->
+
+
+</resources>
